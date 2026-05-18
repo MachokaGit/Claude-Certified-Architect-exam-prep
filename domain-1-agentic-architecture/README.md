@@ -1,4 +1,4 @@
-# Domain 1 — Agentic Architecture & Orchestration
+# Domain 5 — Agentic Architecture & Orchestration
 
 **Exam Weight: 27% — the highest weighted domain**
 
