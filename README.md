@@ -9,14 +9,14 @@ A structured, collaborative learning environment for the **Claude Certified Arch
 ```
 cca-exam-prep/
 ├── .devcontainer/              # GitHub Codespaces environment config
-├── domain-1-agentic-architecture/
+├── domain-1-prompt-engineering
 │   ├── version-a/              # Course by Contributor A
 │   ├── version-b/              # Course by Contributor B
 │   └── README.md               # Domain overview + hands-on projects
-├── domain-2-tool-design-mcp/
-├── domain-3-claude-code-configuration/
-├── domain-4-prompt-engineering/
-└── domain-5-context-management/
+├── domain-3-tool-design-mcp/
+├── domain-2-claude-code-configuration/
+├── domain-4-context management/
+└── domain-5-agentic-architecture/
 ```
 
 ---
@@ -70,13 +70,6 @@ Each domain folder contains a `README.md` with:
 
 ---
 
-## Recommended Study Order
-
-1. Domain 1 — highest exam weight, foundational for everything else
-2. Domain 3 — most practical, builds real Claude Code muscle memory
-3. Domain 2 — MCP is tested deeply and cross-cuts other domains
-4. Domain 4 — prompt engineering underpins every other domain
-5. Domain 5 — context management ties it all together
 
 
 ## Extra Resources 
