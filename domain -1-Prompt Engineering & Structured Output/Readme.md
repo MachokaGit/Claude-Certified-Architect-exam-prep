@@ -7,7 +7,7 @@ This domain tests your ability to craft prompts that produce reliable, structure
 ---
 
 ## Topics to Cover
-
+### Extra resource: https://platform.claude.com/docs/en/about-claude/use-case-guides/overview
 ### 4.1 Prompt Engineering Fundamentals
 - System prompts vs. user prompts — what goes where and why
 - Role assignment and persona prompting
